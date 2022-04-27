@@ -18,7 +18,7 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "grunt": "^1.0.1",
+    "grunt": "^1.5.2",
     "grunt-contrib-htmlmin": "^2.4.0",
     "grunt-sass": "^2.0.0"
   },
